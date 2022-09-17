@@ -1,0 +1,30 @@
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Long Nguyen">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col10342</md:content-id>
+    <md:title>Introduction to VEF</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/2.0/">Creative Commons Attribution License 2.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>c616bbc3-5ac6-4cdd-92c4-122b80f84732</md:uuid>
+<md:slug>introduction-to-vef</md:slug>
+</metadata>
+  <col:content>
+    <col:subcollection>
+      <md:title>Programs</md:title>
+      <col:content>
+        <col:subcollection>
+          <md:title>VEF Fellowship Program</md:title>
+          <col:content>
+            <col:subcollection>
+              <md:title>Applicants</md:title>
+              <col:content>                  </col:content>
+            </col:subcollection>
+          </col:content>
+        </col:subcollection>
+      </col:content>
+    </col:subcollection>
+    <col:subcollection>
+      <md:title>(Untitled)</md:title>
+      <col:content>                  </col:content>
+    </col:subcollection>
+  </col:content>
+</col:collection>
